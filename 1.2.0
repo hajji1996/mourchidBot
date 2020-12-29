@@ -1,0 +1,2 @@
+Requirement already satisfied: chatterbot-corpus in c:\users\admin\appdata\roaming\python\python38\site-packages (1.2.0)
+Requirement already satisfied: PyYAML<4.0,>=3.12 in c:\users\admin\appdata\roaming\python\python38\site-packages (from chatterbot-corpus) (3.13)
